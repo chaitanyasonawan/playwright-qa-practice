@@ -10,9 +10,12 @@ This repository contains my practice automation scripts using:
 - Button validation
 - Checkbox validation
 - Assertions and locators
+- Test Navigation Bar
 
 ## Test Website
-https://the-internet.herokuapp.com/
+1) https://the-internet.herokuapp.com/
+2) https://ultimateqa.com/automation
+
 
 ## How to Run Tests
 1. Install dependencies
